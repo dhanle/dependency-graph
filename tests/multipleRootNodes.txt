@@ -1,0 +1,8 @@
+B->C
+B->D
+D->E
+A->B
+A->C
+Z->B
+Z->C
+B->C
